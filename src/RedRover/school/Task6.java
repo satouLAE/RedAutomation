@@ -279,8 +279,6 @@ public class Task6 {
             for (int j2 = 1; j2 <= i; j2++) {
                 System.out.print(j2 + "\t");
             }
-
-
             System.out.println(); // переход на новую строку
         }
     }
